@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is TonyFeliciFarrel
+I am a dedicated programmer, who is always interested in learning new things every day.
+and if u dont mind we can be a friend , and share new things toagther , nice to meet you
+feel free to check on my repositories
 <!--
 **InMochi/InMochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
