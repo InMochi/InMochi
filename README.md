@@ -65,11 +65,6 @@ feel free to check on my repositories
 
 
 
-<img src="https://streak-stats.demolab.com?user=InMochi&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=InMochi&theme=darkhub" alt="Trophies" />
-
-
-
 <blockquote align="center">"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson</blockquote>
 
 
