@@ -97,4 +97,10 @@
 
 ---
 
+### 😄 Dev Joke of the Day
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Joke" />
+</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
