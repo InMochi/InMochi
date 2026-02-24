@@ -73,11 +73,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InMochi&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InMochi&layout=compact&theme=dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=InMochi&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=InMochi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/InMochi/InMochi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
