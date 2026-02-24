@@ -1,0 +1,14 @@
+name: Update Dev Joke
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch and update joke
+        run: echo "Joke auto-updates via readme-jokes.vercel.app"
