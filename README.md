@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20InMochi's%20Profile!&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%'s%20Profile!&fontSize=40&fontColor=ffffff)
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mochi!;React+%7C+Web+Dev+%7C+Game+Dev;.NET+%26+Laravel+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
