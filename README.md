@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hello.gif" alt="Waving hello" width="220" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjNvdW44aTE4MnNkNG53czNrbDAycDNvOWw3Y2EyMWwyampxbTJkeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zozcguMHYl2zRWRkD/giphy.gif" alt="GIF" width="300" />
 </p>
 
 ---
