@@ -1,19 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Mochi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20C%23%20%C2%B7%20.NET%20Core&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" width="100%"/>
 
 <p align="center">
-  Saya membangun layanan backend dan REST API dengan C# dan .NET Core.<br/>
-  Fokus pada arsitektur yang bersih, kode yang mudah dirawat, dan API yang terdokumentasi dengan baik.
+  I build backend services and REST APIs with C# and .NET Core.<br/>
+  I care about clean architecture, maintainable code, and well-documented APIs.
+</p>
+
+<p align="center">
+  <img src="./assets/hello.gif" alt="Waving hello" width="220" />
 </p>
 
 ---
 
-## Keahlian
+## What I Do
 
-- Pengembangan REST API dengan ASP.NET Core
-- Desain dan optimasi database relasional
-- Autentikasi dan otorisasi (JWT)
-- Dokumentasi API (Swagger / OpenAPI)
-- Pengembangan antarmuka web dengan React
+- Build REST APIs with ASP.NET Core
+- Design and optimize relational databases
+- Implement authentication and authorization (JWT)
+- Document APIs with Swagger / OpenAPI
+- Build web interfaces with React
 
 ## Tech Stack
 
@@ -43,14 +47,18 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Lainnya**
+**Other**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-## Saat Ini
+## Currently
 
-- Memperdalam arsitektur backend dan praktik clean code di ekosistem .NET
-- Bereksperimen dengan integrasi LLM pada layanan backend
+- Deepening my knowledge of backend architecture and clean code in the .NET ecosystem
+- Experimenting with LLM integration in backend services
+
+<p align="center">
+  <img src="./assets/coding.gif" alt="Coding" width="300" />
+</p>
 
 ## GitHub Stats
 
@@ -58,7 +66,7 @@
   <img src="https://streak-stats.demolab.com?user=InMochi&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-## Kontak
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ooer379@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/InMochi)
