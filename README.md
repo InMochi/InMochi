@@ -2,7 +2,8 @@
 
 <p align="center">
   I build backend services and REST APIs with C# and .NET Core.<br/>
-  I care about clean architecture, maintainable code, and well-documented APIs.
+  I care about clean architecture, maintainable code, and well-documented APIs.<br/>
+  I use A'Lots of AI to Code Rn XD
 </p>
 
 <p align="center">
